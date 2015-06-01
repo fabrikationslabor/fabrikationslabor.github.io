@@ -12,6 +12,7 @@ Die Maker Faire in Hannover ist die bislang grösste Veranstaltung zu dem Thema 
 
 Unser FabLab Netzwerk nutzt die Veranstaltung, um sich vor Ort zu treffen und auszutauschen. 
 Folgende FabLabs und aktive Mitglieder werden in Hannover vor Ort sein und freuen sich, wenn man sie in ein Gespräch verwickelt:
+
 * FabLab RWTH Aachen: René Bohne
 * FabLab Bremen
 
