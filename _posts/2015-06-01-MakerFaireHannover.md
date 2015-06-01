@@ -6,7 +6,7 @@ date: 2015-06-01 13:37
 author: René Bohne
 header-img: "img/makerfairehannover.jpg"
 ---
-Am 6.6.+7.6.2015 findet zum dritten mal die jährliche [Maker Faire Hannover statt](http://makerfairehannover.com/). Bei dem Do-It-yourself Festival zeigt die Maker Community, was sie kann. 
+Am 6.6.+7.6.2015 findet zum dritten mal die jährliche [Maker Faire Hannover](http://makerfairehannover.com/) statt. Bei dem Do-It-yourself Festival zeigt die Maker Community, was sie kann. 
 Viele Maker nutzen FabLabs, um ihre Projekte zu verwirklichen. Mit 3D-Druckern und Lasercuttern können die Menschen präzise Designs umsetzen und eigene Erfindungen Realität werden lassen.
 Die Maker Faire in Hannover ist die bislang grösste Veranstaltung zu dem Thema in Deutschland. 
 
