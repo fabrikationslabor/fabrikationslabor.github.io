@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Stay Curious!
-subtitle: Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
+title: Stay Curious
+subtitle: Gedanken zur aktuellen Flüchtlingsthematik
 date: 2016-03-02 13:37
 author: Karsten Joost
 header-img: "img/staycurious.jpg"
 ---
+Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
+
+
 > Menschen, die nichts anderes wollen, als ihre Identität und ihre Individualität zurückzugewinnen!
 
 Der zitierte Satz stammt aus einem Interview, welches Ende 2015 die österreichische
