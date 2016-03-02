@@ -19,7 +19,7 @@ verstörend wirken.
 Kleinschmidt skizziert neue Ansätze in der Flüchtlingshilfe. In einem seiner Projekte
 entsteht derzeit ein FabLab.
 
-[Link zum Interview](http://www.kleinezeitung.at/s/service/livestream/4883821/Kleine-ZeitungSalon_Traiskirchen-ist-nur-mehr-eine-Massenanstalt)
+[Link zum Interview](http://www.kleinezeitung.at/s/service/livestream/4883821/Kleine-ZeitungSalon_Traiskirchen-ist-nur-mehr-eine-Massenanstalt){:target="_blank"}
 
 In seinen Ausführungen beschreibt er auf berührende Weise, weshalb Menschen, die alles
 verloren haben, es langfristig als entwürdigend empfinden, Hilfeleistungen lediglich nach
