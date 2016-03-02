@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stay Curious
+title: Stay Curious!
 subtitle: Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
 date: 2016-03-01 20:00
 author: Karsten Joost
