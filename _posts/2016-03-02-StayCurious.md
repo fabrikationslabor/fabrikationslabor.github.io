@@ -116,6 +116,10 @@ faszinierende Technologie und ein neues Zeitalter. Was wir jetzt mehr denn je br
 ist eine Kultur wechselseitiger Neugier aufeinander.
 **Stay Curious!**
 
+
+
+![Weil es um die Menschen geht](http://www.kleinezeitung.at/images/uploads/5/6/d/4883821/kleinschmidt-kilian-weil-es-um-die-menschen-geht-117438-de1_1449666052475989_v0_h.jpg){: .center-image }
+
 Kleinschmidts Buch „Weil es um die Menschen geht“ ist erschienen im Econ Verlag, Berlin
 ISBN-13 9783430201803
 
