@@ -36,6 +36,9 @@ wie Einfluss auf Gestaltung und Positionierung der Unterkünfte genommen wird un
 des täglichen Lebens, allen Widerständen zum Trotz, nach eigener Facon gestaltet
 werden.
 
+![stay curious!]({{ site.url }}/img/staycuriouslogo.jpg "stay curious!"){: .center-image }
+
+
 >Recht auf Individualität, um sich selbst wieder als `Ich´ und als Mensch begreifen zu können
 Kilian Kleinschmidt
 
@@ -107,3 +110,5 @@ Integration von erheblichem Wert! Was uns verbindet ist die gemeinsame Neugier a
 faszinierende Technologie und ein neues Zeitalter. Was wir jetzt mehr denn je brauchen,
 ist eine Kultur wechselseitiger Neugier aufeinander.
 Stay Curious!
+
+
