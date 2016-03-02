@@ -33,7 +33,7 @@ sogar Basis für Aggression und Revolte sein kann.
 So beschreibt er anschaulich, mit wie viel Energie und Kreativität die Bewohner der Lager
 ungeliebte Dinge, wie z.B. Gemeinschaftsduschen, durch eigene Konstruktionen ersetzen,
 wie Einfluss auf Gestaltung und Positionierung der Unterkünfte genommen wird und Dinge
-des täglichen Lebens, allen Widerständen zum Trotz, nach eigener Facon gestaltet
+des täglichen Lebens, allen Widerständen zum Trotz, nach eigener Fasson gestaltet
 werden.
 
 ![stay curious!]({{ site.url }}/img/staycurious_logo.jpg){: .center-image }
