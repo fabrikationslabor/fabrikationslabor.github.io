@@ -129,9 +129,9 @@ ISBN-13 9783430201803
 
 <http://enorm-magazin.de/arroganz-des-helfens>{:target="_blank"}
 
-<http://www.3ders.org/articles/20150310-non-profit-sets-up-fab-labs-in-syria-conflict-zonesfor-3d-printing-prosthetics.html>{:target="_blank"}
+<http://www.3ders.org/articles/20150310-non-profit-sets-up-fab-labs-in-syria-conflict-zones-for-3d-printing-prosthetics.html>{:target="_blank"}
 
-<https://challenges.openideo.com/challenge/refugee-education/ideas/the-world-s-first-fablab-in-a-refugee-camp>{:target="_blank"}
+<https://challenges.openideo.com/challenge/refugee-education/ideas/the-world-s-first-fab-lab-in-a-refugee-camp>{:target="_blank"}
 
 <http://www.popsci.com/can-this-3d-printing-lab-help-refugee-crisis>{:target="_blank"}
 
