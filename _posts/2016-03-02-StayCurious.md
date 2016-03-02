@@ -47,9 +47,9 @@ einher mit der Rückgewinnung von Individualität und Identität. Kleinschmidt s
 diesem Hintergrund sogar von einem Recht auf Individualität und dass es für Menschen in
 Krisen nichts Wichtigeres gibt, um sich selbst wieder als `Ich´ und als Mensch begreifen zu
 können.
-
 Der Freiraum dafür, Dinge selbst machen zu können, hat in diesem Zusammenhang mit
 nichts Geringerem zu tun, als der Wiederherstellung menschlicher Würde.
+
 Kleinschmidt wirbt für neue Wege in der Flüchtlingshilfe, in der, nach seiner Einschätzung,
 der Transfer von Know-how eine wichtige Rolle spielt, nicht zuletzt deshalb, um unnötigen
 Abhängigkeiten der Menschen entgegenwirken zu können. Ebenso wirbt er für dezentrale
@@ -57,6 +57,7 @@ Strukturen und für zeitgemäße Formen der Vernetzung. In diesem Kontext erwäh
 Kleinschmidt, dass in einem seiner Projekte ein FabLab entsteht und stellt klar, dass die
 Menschen in den Lagern selbstverständlich „Kids des 21. Jahrhunderts“ sind und den
 Herausforderungen unserer Zeit mit großer Neugier und Können begegnen.
+
 Auch wenn dies im Interview nicht explizit benannt wird, liegt, wie ich finde, auf der Hand,
 wie hoch allein der praktische Nutzen eines solchen Labs in einem Flüchtlingslager ist, da
 viele dringend benötigte Dinge selbst hergestellt werden können. Entsprechend
@@ -71,6 +72,7 @@ nehmen zu wollen und der von ihm beschriebenen Notwendigkeit von Freiräumen daf
 Ich denke, das „How to make almost anything“ der FabLab-Welt erhält vor dem
 Hintergrund dieser brennenden Sehnsucht nach Individualität, eine besondere Bedeutung,
 die weit über das bloße Herstellen von Dingen hinausgeht.
+
 Als naheliegend empfinde ich die Frage, welche Freiräume Menschen mit Fluchterfahrung
 eigentlich zur Verfügung stehen, wenn diese zu uns kommen, und ob FabLabs nicht auch
 bei der Integration von Menschen, bzw. den von Kleinschmidt genannten „Kids des 21.
@@ -91,12 +93,14 @@ Herausforderung, die es jetzt anzunehmen gilt, darin besteht, dass sich das, was
 globalen Netzwerken, ohne darüber nachzudenken, praktiziert wird -nämlich
 multikulturelles Miteinander- nun verstärkt im Hier und Jetzt und in unmittelbarer
 Zusammenarbeit abbilden muss.
+
 Mit den Flüchtlingen kommen Menschen zu uns, die nach vorn schauen. Wir haben allen
 Grund dafür, auf sie und ihre Ideen neugierig zu sein, denn in der konkreten
 Zusammenarbeit steckt eine Innovationskraft, von der alle profitieren!
 Eine Gesellschaft, die, wie die unsere, in hohem Maße von Innovation lebt, kann die
 gegenwärtige Situation eigentlich nur als Herausforderung annehmen und sollte die damit
 verbundenen Veränderungen als Chance verstehen.
+
 Bei allem Optimismus sollten wir trotzdem nicht naiv sein. Die anstehenden
 Veränderungen werden nicht frei von Konflikten sein, sondern erfordern Anstrengungen
 von beiden Seiten. Nicht für alle offenen Fragen stehen Antworten parat und nicht für jede
@@ -104,6 +108,7 @@ Herausforderung ist ein Masterplan vorhanden. Die genannte Zusammenarbeit will g
 und erforscht werden. Es braucht Futurelabs, auch in diesem Sinne!
 Und wichtiger als alles andere: es braucht Leute, die in der Lage sind, über den Tellerrand
 zu schauen, es braucht Macherinnen und Macher mit Mut zum Experiment!
+
 Den Austausch von Wissen und Inspiration, wie er nicht nur in der FabLab-Community,
 sondern ganz allgemein in der Maker-Szene stattfindet, halte ich für die Unterstützung von
 Integration von erheblichem Wert! Was uns verbindet ist die gemeinsame Neugier auf
@@ -116,10 +121,14 @@ ISBN-13 9783430201803
 
 ## Links zum Thema:
 
-(http://diepresse.com/home/alpbach/4805141/Entwicklungshilfe_Prothesen-ausdem-3DDrucker)
-(http://enorm-magazin.de/arroganz-des-helfens)
-(http://www.3ders.org/articles/20150310-non-profit-sets-up-fab-labs-in-syria-conflict-zonesfor-3d-printing-prosthetics.html)
-(https://challenges.openideo.com/challenge/refugee-education/ideas/the-world-s-first-fablab-in-a-refugee-camp)
-(http://www.popsci.com/can-this-3d-printing-lab-help-refugee-crisis)
+http://diepresse.com/home/alpbach/4805141/Entwicklungshilfe_Prothesen-ausdem-3DDrucker
+
+http://enorm-magazin.de/arroganz-des-helfens
+
+http://www.3ders.org/articles/20150310-non-profit-sets-up-fab-labs-in-syria-conflict-zonesfor-3d-printing-prosthetics.html
+
+https://challenges.openideo.com/challenge/refugee-education/ideas/the-world-s-first-fablab-in-a-refugee-camp
+
+http://www.popsci.com/can-this-3d-printing-lab-help-refugee-crisis
 
 
