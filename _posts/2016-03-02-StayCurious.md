@@ -2,7 +2,7 @@
 layout: post
 title: Stay Curious
 subtitle: Gedanken
-date: 2016-03-02 13:37
+date: 2016-02-03 13:37
 author: Karsten Joost
 header-img: "img/staycuriouslogo.jpg"
 ---
