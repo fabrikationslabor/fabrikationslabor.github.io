@@ -4,7 +4,7 @@ title: Stay Curious
 subtitle: Gedanken zur aktuellen Flüchtlingsthematik
 date: 2016-03-02 13:37
 author: Karsten Joost
-header-img: "img/staycurious.jpg"
+header-img: "img/staycuriouslogo.jpg"
 ---
 Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
 
