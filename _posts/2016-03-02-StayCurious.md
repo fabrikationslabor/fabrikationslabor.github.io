@@ -114,7 +114,7 @@ ist eine Kultur wechselseitiger Neugier aufeinander.
 Kleinschmidts Buch „Weil es um die Menschen geht“ ist erschienen im Econ Verlag, Berlin
 ISBN-13 9783430201803
 
-##Links zum Thema:
+## Links zum Thema:
 
 http://diepresse.com/home/alpbach/4805141/Entwicklungshilfe_Prothesen-ausdem-3DDrucker
 http://enorm-magazin.de/arroganz-des-helfens]
