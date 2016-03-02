@@ -40,7 +40,7 @@ werden.
 
 
 >Recht auf Individualität, um sich selbst wieder als `Ich´ und als Mensch begreifen zu können
-Kilian Kleinschmidt
+*Kilian Kleinschmidt*
 
 In einem Flüchtlingslager geht der Wunsch, Dinge selbst in die Hand nehmen zu können,
 einher mit der Rückgewinnung von Individualität und Identität. Kleinschmidt spricht vor
