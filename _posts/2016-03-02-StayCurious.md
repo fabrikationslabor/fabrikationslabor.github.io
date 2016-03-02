@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Stay Curious
-subtitle: Gedanken
-date: 2016-02-03 13:37
+subtitle: Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
+date: 2016-03-01 20:00
 author: Karsten Joost
 header-img: "img/staycuriouslogo.jpg"
 ---
-
-Gedanken zur aktuellen Flüchtlingsthematik und was sie mit Do-It-Yourself- und Maker-Kultur verbindet
-
-
 > Menschen, die nichts anderes wollen, als ihre Identität und ihre Individualität zurückzugewinnen!
 
 Der zitierte Satz stammt aus einem Interview, welches Ende 2015 die österreichische
@@ -40,7 +36,7 @@ wie Einfluss auf Gestaltung und Positionierung der Unterkünfte genommen wird un
 des täglichen Lebens, allen Widerständen zum Trotz, nach eigener Facon gestaltet
 werden.
 
-![stay curious!]({{ site.url }}/img/staycuriouslogo.jpg "stay curious!"){: .center-image }
+![stay curious!]({{ site.url }}/img/staycurious_logo.jpg){: .center-image }
 
 
 >Recht auf Individualität, um sich selbst wieder als `Ich´ und als Mensch begreifen zu können
